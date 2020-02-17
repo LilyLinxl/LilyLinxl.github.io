@@ -3,12 +3,14 @@
   <entry>
     <title>2.0 小程序初体验</title>
     <url>/2020/02/17/2.0%20%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%88%9D%E4%BD%93%E9%AA%8C/</url>
-    <content><![CDATA[<h1 id="1-数据绑定"><a href="#1-数据绑定" class="headerlink" title="1.数据绑定"></a>1.数据绑定</h1><h1 id="2-列表渲染"><a href="#2-列表渲染" class="headerlink" title="2.列表渲染"></a>2.列表渲染</h1><h1 id="3-事件监听"><a href="#3-事件监听" class="headerlink" title="3.事件监听"></a>3.事件监听</h1>]]></content>
+    <content><![CDATA[<h1 id="1-数据绑定"><a href="#1-数据绑定" class="headerlink" title="1.数据绑定"></a>1.数据绑定</h1><a id="more"></a>
+<h1 id="2-列表渲染"><a href="#2-列表渲染" class="headerlink" title="2.列表渲染"></a>2.列表渲染</h1><h1 id="3-事件监听"><a href="#3-事件监听" class="headerlink" title="3.事件监听"></a>3.事件监听</h1>]]></content>
   </entry>
   <entry>
     <title>1.0 从零搭建小程序</title>
     <url>/2020/02/17/1.0%20%E4%BB%8E%E9%9B%B6%E6%90%AD%E5%BB%BA%E5%B0%8F%E7%A8%8B%E5%BA%8F/</url>
     <content><![CDATA[<h1 id="从零搭建小程序（HelloWorld页面"><a href="#从零搭建小程序（HelloWorld页面" class="headerlink" title="从零搭建小程序（HelloWorld页面)"></a>从零搭建小程序（HelloWorld页面)</h1><h2 id="0-准备工作"><a href="#0-准备工作" class="headerlink" title="0.准备工作"></a>0.准备工作</h2><p>1.用的语言和框架<br>页面布局wxml<br>页面样式wxcc<br>页面脚本js+wxs<br>mvvm架构<br>2.申请appid<br>3.下载开发工具</p>
+<a id="more"></a>
 <h2 id="1-删除自动生成的文件只留下"><a href="#1-删除自动生成的文件只留下" class="headerlink" title="1.删除自动生成的文件只留下"></a>1.删除自动生成的文件只留下</h2><p>sitemap.json，sitemap.json</p>
 <h2 id="2-应用程序结构"><a href="#2-应用程序结构" class="headerlink" title="2.应用程序结构"></a>2.应用程序结构</h2><p>最上层APP-&gt;多个Page-&gt;多个组件<br>App包括：app.js,app.json,app.wxss<br>Page包括:page.js,page.json,page.wxml,page.wxss<br>Component包括:component.js,component.json,component.wxml,component.wxss</p>
 <h2 id="3-搭建小程序"><a href="#3-搭建小程序" class="headerlink" title="3.搭建小程序"></a>3.搭建小程序</h2><ul>
