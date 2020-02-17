@@ -60,7 +60,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字数统计:</span>
-            <span class="post-count">7字</span>
+            <span class="post-count">242字</span>
         </span>
     </span>
 
@@ -96,7 +96,21 @@
       
 
       
-      <h2 id="从零搭建小程序"><a href="#从零搭建小程序" class="headerlink" title="从零搭建小程序"></a>从零搭建小程序</h2>
+      <h1 id="从零搭建小程序（HelloWorld页面"><a href="#从零搭建小程序（HelloWorld页面" class="headerlink" title="从零搭建小程序（HelloWorld页面)"></a>从零搭建小程序（HelloWorld页面)</h1><h2 id="1-删除自动生成的文件只留下"><a href="#1-删除自动生成的文件只留下" class="headerlink" title="1.删除自动生成的文件只留下"></a>1.删除自动生成的文件只留下</h2><p>sitemap.json，sitemap.json</p>
+<h2 id="2-应用程序结构"><a href="#2-应用程序结构" class="headerlink" title="2.应用程序结构"></a>2.应用程序结构</h2><p>最上层APP-&gt;多个Page-&gt;多个组件<br>App包括：app.js,app.json,app.wxss<br>Page包括:page.js,page.json,page.wxml,page.wxss</p>
+<h2 id="3-搭建小程序"><a href="#3-搭建小程序" class="headerlink" title="3.搭建小程序"></a>3.搭建小程序</h2><ul>
+<li><p>1.根据报错信息，我们需要在app.json中添加内容-&gt;<br>添加pages属性，值为数组-&gt;<br>数组中需要包含至少一项</p>
+</li>
+<li><p>2.添加一个完整的page<br>新建home.js,home.json,home.wxml,home.wxss<br>可以直接新建page会自动生成这四个文件，而且会自动注册</p>
+</li>
+<li><p>3.在app.json注册home页面</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">"pages":[</span><br><span class="line">   <span class="string">"home"</span><span class="comment">//页面所在路径</span></span><br><span class="line"> ]</span><br></pre></td></tr></table></figure></li>
+<li><p>4.在home.js中创建Page对象</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Page(&#123;</span><br><span class="line">  </span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure></li>
+<li><p>5.整理目录结构<br>新建pages<br>pages内包含home文件夹，about文件夹，文件夹内部再新建page<br>页面显示的内容来自wxml文件，样式通过wxss来修改<br>pages&gt;home(四个文件),about(四个文件)</p>
+</li>
+</ul>
+
       
       <!-- reward -->
       
