@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-18T05:30:09.540Z</updated>
+  <updated>2020-02-18T05:37:57.563Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>活在当下</title>
-    <link href="http://yoursite.com/2020/02/18/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/"/>
-    <id>http://yoursite.com/2020/02/18/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/</id>
-    <published>2020-02-18T05:30:09.537Z</published>
-    <updated>2020-02-18T05:30:09.540Z</updated>
+    <title>4.0 注册小程序</title>
+    <link href="http://yoursite.com/2020/02/18/4.0%20%E6%B3%A8%E5%86%8C%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <id>http://yoursite.com/2020/02/18/4.0%20%E6%B3%A8%E5%86%8C%E5%B0%8F%E7%A8%8B%E5%BA%8F/</id>
+    <published>2020-02-18T05:37:57.561Z</published>
+    <updated>2020-02-18T05:37:57.563Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;![活在当下](timg
+          &lt;h1 id=&quot;一-小程序的启动流程&quot;&gt;&lt;a href=&quot;#一-小程序的启动流程&quot; class=&quot;headerlink&quot;
         
       
     
@@ -44,17 +44,12 @@
     <link href="http://yoursite.com/2020/02/18/%E9%9A%8F%E7%AC%94/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/"/>
     <id>http://yoursite.com/2020/02/18/%E9%9A%8F%E7%AC%94/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/</id>
     <published>2020-02-18T05:12:28.889Z</published>
-    <updated>2020-02-18T05:31:01.893Z</updated>
+    <updated>2020-02-18T05:43:05.420Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;![images](timg
-        
-      
+      &lt;p&gt;![](“/images/timg (15).jpg”)&lt;/p&gt;
+&lt;p&gt;活在当下&lt;br&gt;不等于只考虑眼前，&lt;br&gt;而是清楚的知道自己&lt;br&gt;正在做的事情&lt;br&gt;对未来有什么后果，&lt;br&gt;如此才能真正把握好&lt;br&gt;当下的每一分每一秒。&lt;/p&gt;
     
     </summary>
     
