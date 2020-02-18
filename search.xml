@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ceshi</title>
+    <url>/2020/02/18/ceshi/</url>
+    <content><![CDATA[<p>![](timg (15).jpg)</p>
+]]></content>
+  </entry>
+  <entry>
     <title>小程序/4.0 注册小程序</title>
     <url>/2020/02/18/%E5%B0%8F%E7%A8%8B%E5%BA%8F/4.0%20%E6%B3%A8%E5%86%8C%E5%B0%8F%E7%A8%8B%E5%BA%8F/</url>
     <content><![CDATA[<h1 id="一-小程序的启动流程"><a href="#一-小程序的启动流程" class="headerlink" title="一.小程序的启动流程"></a>一.小程序的启动流程</h1><p>下载小程序包-&gt;启动小程序<br>-&gt;加载解析app.json-&gt;注册App()(即调用App方法)<br>-&gt;执行App生命周期函数<br>  加载自定义组件代码，注册自定义组件<br>-&gt;加载解析page.json<br>  渲染层加载渲染page.wxml<br>  逻辑层注册Page()-&gt;执行Page生命周期</p>
